@@ -509,3 +509,5 @@ document.addEventListener("DOMContentLoaded", () => {
   // Cargar datos iniciales
   obtenerDatosRealMadrid();
 });
+
+export default App;
