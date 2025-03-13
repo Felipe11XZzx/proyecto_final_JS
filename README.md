@@ -26,9 +26,10 @@ Este proyecto es una aplicación web que muestra estadísticas e información so
    ```bash
    npm start
    ```
-3. Abre tu navegador en `http://localhost:3001`
+3. Inicia tanto el Front-End como el Back-End:
+   ```bash
+   npm run dev
    ```
-4. Alternativamente utiliza la extensión Live Server de VS Code ("Es más recomendable")
 
 ## Contribución
 Si deseas contribuir a este proyecto, sigue estos pasos:
